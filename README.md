@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ricknout/ricknout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Android Engineer and occasional UX/UI designer.
 
-Here are some ideas to get you started:
+I'm based in Munich, Germany 🇩🇪 and come from Cape Town, South Africa 🇿🇦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently work at **Google** as a **Developer Advocate for [Material Design](https://material.io)**.
+
+I'm passionate about the intersection between code and design. I also strive to contribute to the Android community; I'm a former [Google Developer Expert](https://developers.google.com/community/experts) for Android and organizer for [GDG Cape Town](https://twitter.com/gdgcapetown). I enjoy speaking at conferences, publishing open source code and writing blog posts.
+
+You can also find me on:
+- [Twitter](https://twitter.com/ricknout)
+- [Medium](https://medium.com/@ricknout)
+- [Speaker Deck](https://speakerdeck.com/ricknout)
+- [Instagram](https://www.instagram.com/ricknout)
