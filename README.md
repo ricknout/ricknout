@@ -12,4 +12,4 @@ You can also find me on:
 - [Twitter](https://twitter.com/ricknout)
 - [Medium](https://medium.com/@ricknout)
 - [Speaker Deck](https://speakerdeck.com/ricknout)
-- [Instagram](https://www.instagram.com/ricknout)
+- [Twitch](https://www.twitch.tv/ricknout)
