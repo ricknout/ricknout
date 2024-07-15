@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm a **Principal Android Engineer** at **GoDaddy**.
+I'm a **Principal Software Engineer** and **UX/UI Designer**.
 
-My area of focus is Jetpack Compose, Material Design and delightful UX/UI.
+My areas of focus are Android, Jetpack Compose, Design Systems and Kotlin Multiplatform.
 
 I'm based in Cape Town, South Africa 🇿🇦
 
 You can find me on:
-- [Twitter](https://twitter.com/ricknout)
-- [Mastodon](https://androiddev.social/@ricknout)
 - [LinkedIn](https://www.linkedin.com/in/ricknout)
+- [X](https://x.com/ricknout)
+- [Mastodon](https://androiddev.social/@ricknout)
